@@ -7,3 +7,4 @@
 * Linkedin Profile : https://www.linkedin.com/in/markpairdha/
 * HackerRank Profile : https://www.hackerrank.com/markpairdha/
 * CodeChef Profile : https://www.codechef.com/users/markpairdha
+* Curriculum Vitae : http://tiny.cc/4bqf5y
